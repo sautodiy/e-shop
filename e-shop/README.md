@@ -24,4 +24,6 @@
 
 *numpy,*
 
-*seaborn*
+*seaborn*,
+
+*scipy*
